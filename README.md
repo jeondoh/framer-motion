@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/-typescript 4.5.5-3178C6?style=plastic&logo=Typescript&logoColor=white"/>
 
 ### npm (CRA project to typescript)
+- framer-motion: 6.2.1
 - styled-components: 5.3.3
 
 ### Dev List
